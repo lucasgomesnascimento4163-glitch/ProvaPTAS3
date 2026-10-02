@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nomeAluno": "Lucas Roubei o Lugar da Ana",
+    "livro": "Death Note Black Edition",
+    "devolvidoEm": null
+  },
+  {
+    "id": 2,
+    "nomeAluno": "Lucas",
+    "livro": "Death Note",
+    "devolvidoEm": "2026-10-02T18:17:33.870Z"
+  }
+]
